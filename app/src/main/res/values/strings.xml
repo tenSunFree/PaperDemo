@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PaperDemo</string>
+    <string name="image_desc">sample description</string>
+</resources>
